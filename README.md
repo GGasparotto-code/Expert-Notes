@@ -9,7 +9,6 @@ Exemplo de bloco de notas que pode ser usado para criar notas gravando um áudio
 
 2. Acesse a pasta do projeto e execute os comandos abaixo:
 
-```npm install```
-```npm run dev```
+```npm install npm run dev```
 
 3. Acesse http://localhost:5173 para visualizar e testar a aplicação.
