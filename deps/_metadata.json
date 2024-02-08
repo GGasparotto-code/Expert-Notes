@@ -1,0 +1,76 @@
+{
+  "hash": "956f138d",
+  "configHash": "02c68232",
+  "lockfileHash": "e763127f",
+  "browserHash": "5ec5ac5f",
+  "optimized": {
+    "react": {
+      "src": "../../../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ef955ad7",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "540f64ea",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "678a3b6e",
+      "needsInterop": true
+    },
+    "@radix-ui/react-dialog": {
+      "src": "../../../../../node_modules/@radix-ui/react-dialog/dist/index.mjs",
+      "file": "@radix-ui_react-dialog.js",
+      "fileHash": "4960f47e",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../../../../node_modules/date-fns/index.mjs",
+      "file": "date-fns.js",
+      "fileHash": "e1ddb071",
+      "needsInterop": false
+    },
+    "date-fns/locale": {
+      "src": "../../../../../node_modules/date-fns/locale.mjs",
+      "file": "date-fns_locale.js",
+      "fileHash": "04bbabdc",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../../../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "61df3dfe",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "23727f2c",
+      "needsInterop": true
+    },
+    "sonner": {
+      "src": "../../../../../node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "04ead4ba",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SFYC3M3T": {
+      "file": "chunk-SFYC3M3T.js"
+    },
+    "chunk-NGVFC24W": {
+      "file": "chunk-NGVFC24W.js"
+    },
+    "chunk-KIJ3SL2J": {
+      "file": "chunk-KIJ3SL2J.js"
+    },
+    "chunk-UV5CTPV7": {
+      "file": "chunk-UV5CTPV7.js"
+    }
+  }
+}
