@@ -1,4 +1,4 @@
-# Expert-Notes
+# 📄 Expert-Notes
 Meu primeiro projeto feito utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
 
 ## Sobre o Projeto
